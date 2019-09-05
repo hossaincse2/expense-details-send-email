@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="194.49 -4366.384 34.768 34.769">
+  <defs>
+    <style>
+      .cls-1, .cls-4 {
+        fill: none;
+      }
+
+      .cls-1 {
+        stroke: #fff;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="Group_3834" data-name="Group 3834" transform="translate(-487 -5028)">
+    <g id="Ellipse_16" data-name="Ellipse 16" class="cls-1" transform="translate(681.49 661.616)">
+      <circle class="cls-3" cx="17.384" cy="17.384" r="17.384"/>
+      <circle class="cls-4" cx="17.384" cy="17.384" r="16.884"/>
+    </g>
+    <path id="f_1_" class="cls-2" d="M5.844,17.331V9.425H8.5L8.9,6.346H5.844V4.378c0-.89.248-1.5,1.526-1.5H9V.12A21.206,21.206,0,0,0,6.627,0,3.713,3.713,0,0,0,2.664,4.077V6.353H0V9.432H2.664v7.9Z" transform="translate(694.482 670.754)"/>
+  </g>
+</svg>

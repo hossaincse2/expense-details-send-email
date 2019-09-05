@@ -1,0 +1,29 @@
+<svg id="Group_1" data-name="Group 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="575 286 406 406">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fcfcfc;
+      }
+
+      .cls-2 {
+        fill: #717171;
+      }
+
+      .cls-3 {
+        filter: url(#Rectangle_1);
+      }
+    </style>
+    <filter id="Rectangle_1" x="575" y="286" width="406" height="406" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="25" result="blur"/>
+      <feFlood flood-opacity="0.204"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g class="cls-3" transform="matrix(1, 0, 0, 1, 0, 0)">
+    <rect id="Rectangle_1-2" data-name="Rectangle 1" class="cls-1" width="256" height="256" rx="128" transform="translate(650 351)"/>
+  </g>
+  <rect id="Rectangle_3" data-name="Rectangle 3" class="cls-2" width="17.247" height="158.183" rx="8.623" transform="translate(727.932 540.784) rotate(-135)"/>
+  <rect id="Rectangle_4" data-name="Rectangle 4" class="cls-2" width="17.247" height="158.183" rx="8.623" transform="translate(839.784 529.25) rotate(135)"/>
+</svg>
